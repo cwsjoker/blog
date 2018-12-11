@@ -35,7 +35,7 @@ export default class Fetch {
 }
 ```
 
-## Sign.js
+## Sign.js
 这里主要是对项目的各个模块的ajax请求分类
 ``` js
 import Fetch from '../fetch.js';
